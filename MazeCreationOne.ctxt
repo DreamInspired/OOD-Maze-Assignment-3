@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MazeCreationOne
+comment1.params=x\ y
+comment1.target=java.lang.String[][]\ CreateMaze(int,\ int)
+comment2.params=
+comment2.target=int\ StartPoint()
+comment3.params=
+comment3.target=int\ EndPoint()
+comment4.params=
+comment4.target=int\ getMaxX()
+comment5.params=
+comment5.target=int\ getMaxY()
+numComments=6
